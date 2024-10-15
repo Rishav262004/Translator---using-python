@@ -79,12 +79,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 For more detailed instructions, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-name`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
+
+
+thanks to @vishalkumarojha
