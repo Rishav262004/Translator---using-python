@@ -8,12 +8,8 @@ Welcome to the **Language Translator** project! This Python-based application tr
 - Clean and user-friendly **command-line interface**.
 - Error handling for unsupported languages and connection issues.
 
-## 📂 Project Structure
-```
-.
-├── translator.py     # Main Python script for translation
-├── README.md         # Project documentation
-└── requirements.txt  # Python dependencies
+
+
 ```
 
 ## 🛠️ Installation
